@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Compose</string>
+
+    <string name="str_following">Siguiente</string>
+    <string name="str_back">Regresar</string>
+    <string name="str_password">Contraseña</string>
+    <string name="str_password_confirm">Confirmar contraseña</string>
+    <string name="str_create_account">Crear contraseña</string>
+
+</resources>
